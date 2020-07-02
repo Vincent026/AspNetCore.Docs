@@ -11,7 +11,7 @@ pool:
   vmImage: 'VANWESTS08'
 
 variables:
-  solution: '**/*.sln'
+  solution: '**/WebApp1.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
